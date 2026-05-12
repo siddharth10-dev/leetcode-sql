@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
 ## Database
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
