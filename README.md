@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0627-swap-sex-of-employees) |
