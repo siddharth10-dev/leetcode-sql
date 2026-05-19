@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0020-valid-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
