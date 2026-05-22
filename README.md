@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
+| [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 ## Linked List
 |  |
 | ------- |
