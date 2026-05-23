@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
