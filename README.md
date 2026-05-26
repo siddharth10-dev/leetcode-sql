@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -100,10 +101,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
