@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0226-invert-binary-tree) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0226-invert-binary-tree) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 ## Counting
 |  |
