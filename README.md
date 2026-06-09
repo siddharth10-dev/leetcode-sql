@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
+| [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
