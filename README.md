@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
