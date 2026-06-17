@@ -1,18 +1,18 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        left=0
-        right=len(nums)-1
-        while left<=right:
-            m=(left+right)//2
+        s=0
+        e=len(nums)-1
+        while s<=e:
+            mid=(s+e)//2
 
-            if(nums[m]==target):
-                return m
-            
-            elif(nums[m]<target):
-                left=m+1
+            if nums[mid]==target:
+                return mid
 
+            elif nums[mid]<target:
+                s=mid+1
 
-            else:
-                right=m-1
+            elif nums[mid]>target:
+                e=mid-1
 
-        return left
+        return s
+         
