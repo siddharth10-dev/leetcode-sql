@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
