@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,4 +217,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
