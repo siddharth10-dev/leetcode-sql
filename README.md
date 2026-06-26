@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
+| [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
