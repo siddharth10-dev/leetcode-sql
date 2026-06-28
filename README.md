@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 ## Linked List
