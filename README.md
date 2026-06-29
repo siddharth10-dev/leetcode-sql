@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
