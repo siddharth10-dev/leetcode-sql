@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
 |  |
 | ------- |
