@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0110-balanced-binary-tree) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
