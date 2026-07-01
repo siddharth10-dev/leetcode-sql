@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1652-defuse-the-bomb](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1652-defuse-the-bomb) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -253,4 +256,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
