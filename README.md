@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharth10-dev/leetcode-sql/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0046-permutations) |
