@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0853-car-fleet) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0705-design-hashset) |
 ## Doubly-Linked List
 |  |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/siddharth10-dev/leetcode-sql/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
